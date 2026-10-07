@@ -70,7 +70,7 @@ The cloud resource organization and tagging market spans **hyperscaler native se
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Checkov](https://github.com/bridgecrewio/checkov)** [![Stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=social&color=white)](https://github.com/bridgecrewio/checkov/stargazers)  
   **Static analysis for IaC & tag compliance**, Apache-2.0 licensed. **Scans Terraform, CloudFormation, Kubernetes, and ARM templates** for security and mandatory tagging policy violations before deployment. Features plan-aware scanning and SARIF integration. 🔍
@@ -122,7 +122,7 @@ Contributions are welcome! Follow these steps to submit new cloud tagging platfo
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
